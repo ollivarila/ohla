@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TimeUtilsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-11-26T14:56:53" hostname="DESKTOP-FG9PBRB" time="0.055">
+  <properties/>
+  <testcase name="Sec: -1 = -1" classname="org.example.TimeUtilsTest" time="0.028"/>
+  <testcase name="Sec: 0 = 0:00:00" classname="org.example.TimeUtilsTest" time="0.009"/>
+  <testcase name="Sec: 36000 = 10:00:00" classname="org.example.TimeUtilsTest" time="0.001"/>
+  <testcase name="Sec: 5 = 0:00:05" classname="org.example.TimeUtilsTest" time="0.001"/>
+  <testcase name="Sec: 65 = 0:01:05" classname="org.example.TimeUtilsTest" time="0.0"/>
+  <testcase name="Sec: 5 = 0:00:05" classname="org.example.TimeUtilsTest" time="0.001"/>
+  <testcase name="Sec: 3665 = 1:01:05" classname="org.example.TimeUtilsTest" time="0.001"/>
+  <testcase name="Sec: 360000 = 100:00:00" classname="org.example.TimeUtilsTest" time="0.0"/>
+  <testcase name="Sec: 10 = 0:00:10" classname="org.example.TimeUtilsTest" time="0.0"/>
+  <testcase name="Sec: 600 = 0:10:00" classname="org.example.TimeUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
