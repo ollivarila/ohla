@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TilaustenKasittelyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-29T12:19:19" hostname="DESKTOP-FG9PBRB" time="0.423">
+  <properties/>
+  <testcase name="testExtraDiscount()" classname="org.example.TilaustenKasittelyTest" time="0.419"/>
+  <testcase name="testNormalDiscount()" classname="org.example.TilaustenKasittelyTest" time="0.003"/>
+  <system-out><![CDATA[210.0
+25.0
+90.0
+210.0
+20.0
+24.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
